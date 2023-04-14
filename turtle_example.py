@@ -1,5 +1,4 @@
 #*-coding-style:utf-8-*#
-
 from turtle import *
 
 forward (100)
